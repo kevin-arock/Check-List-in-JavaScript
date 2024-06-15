@@ -1,7 +1,7 @@
 
 const taskInput = document.querySelector('.task');
 const container = document.querySelector('.container');
-const tasks = ["gym","grocery"];
+const tasks = ["Gym","Grocery Shopping"];
 let checks;
 let lastChecked;
 
