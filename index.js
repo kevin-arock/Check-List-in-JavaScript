@@ -1,0 +1,1 @@
+const checks = document.querySelector('input[type="checkbox"]')
